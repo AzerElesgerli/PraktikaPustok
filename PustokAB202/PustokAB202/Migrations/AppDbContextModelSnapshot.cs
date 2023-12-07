@@ -57,22 +57,24 @@ namespace PustokAB202.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Discount")
-                        .HasColumnType("int");
+                    b.Property<decimal>("Discount")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<int>("GenreId")
                         .HasColumnType("int");
 
-                    b.Property<bool>("IsAvialable")
+                    b.Property<bool>("IsAvailable")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Page")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Page")
+                        .HasColumnType("int");
 
                     b.Property<decimal>("SalePrice")
                         .HasColumnType("decimal(18,2)");
@@ -158,6 +160,27 @@ namespace PustokAB202.Migrations
                     b.ToTable("Genres");
                 });
 
+            modelBuilder.Entity("PustokAB202.Models.Setting", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Key")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Value")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Settings");
+                });
+
             modelBuilder.Entity("PustokAB202.Models.Slider", b =>
                 {
                     b.Property<int>("Id")
@@ -212,7 +235,7 @@ namespace PustokAB202.Migrations
             modelBuilder.Entity("PustokAB202.Models.BookImage", b =>
                 {
                     b.HasOne("PustokAB202.Models.Book", "Book")
-                        .WithMany()
+                        .WithMany("BookImages")
                         .HasForeignKey("BookId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -227,6 +250,11 @@ namespace PustokAB202.Migrations
             modelBuilder.Entity("PustokAB202.Models.Author", b =>
                 {
                     b.Navigation("Books");
+                });
+
+            modelBuilder.Entity("PustokAB202.Models.Book", b =>
+                {
+                    b.Navigation("BookImages");
                 });
 
             modelBuilder.Entity("PustokAB202.Models.BookImage", b =>

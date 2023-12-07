@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r214.17\\Desktop\\PraktikaPustok\\PustokAB202\\PustokAB202\\PustokAB202.csproj": {}
+    "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\PustokAB202.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r214.17\\Desktop\\PraktikaPustok\\PustokAB202\\PustokAB202\\PustokAB202.csproj": {
+    "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\PustokAB202.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r214.17\\Desktop\\PraktikaPustok\\PustokAB202\\PustokAB202\\PustokAB202.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\PustokAB202.csproj",
         "projectName": "PustokAB202",
-        "projectPath": "C:\\Users\\ca.r214.17\\Desktop\\PraktikaPustok\\PustokAB202\\PustokAB202\\PustokAB202.csproj",
+        "projectPath": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\PustokAB202.csproj",
         "packagesPath": "C:\\Users\\ca.r214.17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r214.17\\Desktop\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\",
+        "outputPath": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.14, )"

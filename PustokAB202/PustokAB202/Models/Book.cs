@@ -15,19 +15,21 @@
 
         public Genre Genre { get; set; }
 
-        public string Page { get; set; }
+        public int Page { get; set; }
 
-        public bool IsAvialable { get; set; }
+        public bool IsAvailable { get; set; }
+        public bool IsDeleted { get; set; }
+
 
         public decimal CostPrice { get; set; }
 
         public decimal SalePrice { get; set; }
 
-        public int Discount { get; set; }
+        public decimal Discount { get; set; }
 
-        public string Desc { get; set; }  
+        public string Desc { get; set; }
 
-
+        public List<BookImage> BookImages { get; set; }
 
     }
 }

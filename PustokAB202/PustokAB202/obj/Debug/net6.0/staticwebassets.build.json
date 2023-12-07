@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mIZbcIerSew9wmEgq/aIdllCL4RiMZ67G28csIfmmfA=",
+  "Hash": "jmxcjkIyBM158i+RtAIu0o4ri2+UmRlnNGlIgFBlAG0=",
   "Source": "PustokAB202",
   "BasePath": "_content/PustokAB202",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PustokAB202\\wwwroot",
       "Source": "PustokAB202",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PustokAB202.styles.css",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PustokAB202.styles.css",
       "SourceId": "PustokAB202",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "PustokAB202.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PustokAB202.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PustokAB202.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PustokAB202.bundle.scp.css",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PustokAB202.bundle.scp.css",
       "SourceId": "PustokAB202",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "PustokAB202.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PustokAB202.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PustokAB202.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\css\\main.css",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\css\\main.css",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/css/main.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\css\\plugins.css",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\css\\plugins.css",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/css/plugins.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\plugins.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-brands-400d41d.eot",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-regular-400d41d.eot",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/fa-solid-900d41d.eot",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Ionicons28b5.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Ionicons28b5.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/Ionicons28b5.eot",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Ionicons28b5.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Ionicons28b5.svg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Ionicons28b5.svg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/Ionicons28b5.svg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Ionicons28b5.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Ionicons28b5.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Ionicons28b5.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/Ionicons28b5.ttf",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Ionicons28b5.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Ionicons28b5.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Ionicons28b5.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/Ionicons28b5.woff",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Ionicons28b5.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/Material-Design-Iconic-Fontd1f1.ttf",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/Material-Design-Iconic-Fontd1f1.woff",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/fonts/Material-Design-Iconic-Fontd1f1.woff2",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\best-seller-bg.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\best-seller-bg.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/best-seller-bg.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\best-seller-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-2-slider-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-2-slider-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/home-2-slider-1.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\home-2-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-2-slider-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-2-slider-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/home-2-slider-2.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\home-2-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-3-slider-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-3-slider-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/home-3-slider-1.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\home-3-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-3-slider-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-3-slider-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/home-3-slider-2.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\home-3-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-4-slider-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-4-slider-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/home-4-slider-1.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\home-4-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-4-slider-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-4-slider-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/home-4-slider-2.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\home-4-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-slider-1-ai.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-slider-1-ai.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/home-slider-1-ai.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\home-slider-1-ai.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-slider-2-ai.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\home-slider-2-ai.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/home-slider-2-ai.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\home-slider-2-ai.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-contained.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-contained.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/promo-banner-contained.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-contained.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-full.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-full.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/promo-banner-full.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-full.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-mid.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-mid.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/promo-banner-mid.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-mid.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-small.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-small.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/promo-banner-small.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-small-with-text.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-small-with-text.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/promo-banner-small-with-text.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-small-with-text.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/promo-banner-with-text.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-with-text.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/promo-banner-with-text-2.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/promo-banner-with-text-2--small.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2--small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-big.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-big.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/bg-images/promo-banner-with-text-big.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-big.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\favicon.ico",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\favicon.ico",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/favicon.ico",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\author-logo.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\author-logo.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/icon/author-logo.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\author-logo.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\eng-flag.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\eng-flag.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/icon/eng-flag.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\eng-flag.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\germany-flag.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\germany-flag.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/icon/germany-flag.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\germany-flag.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\quotation.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\quotation.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/icon/quotation.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\payment.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\icon\\payment.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/icon/payment.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\payment.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\logo.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\logo.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/logo.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\logo--footer.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\logo--footer.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/logo--footer.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\logo--footer.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\best-seller-author.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\best-seller-author.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/best-seller-author.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\best-seller-author.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-grid-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-grid-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/blog-grid-1.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-grid-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-grid-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-grid-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/blog-grid-2.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-grid-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-grid-3.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-grid-3.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/blog-grid-3.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-grid-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-grid-4.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-grid-4.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/blog-grid-4.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-grid-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-img-big-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-img-big-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/blog-img-big-1.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-img-big-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-img-big-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-img-big-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/blog-img-big-2.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-img-big-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-img-big-3.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\blog-img-big-3.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/blog-img-big-3.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-img-big-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/brand-1.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/brand-2.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-3.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-3.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/brand-3.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-4.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-4.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/brand-4.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-5.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-5.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/brand-5.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-6.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\brand-6.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/brand-6.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-large.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-large.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/cat-gal-large.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-large.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-mid.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-mid.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/cat-gal-mid.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-mid.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-mid-2.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-mid-2.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/cat-gal-mid-2.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-mid-2.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-small.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-small.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/cat-gal-small.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-small.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-small-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\cat-gal-small-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/cat-gal-small-2.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-small-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-1.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-1.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/client-1.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-1.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-2.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-2.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/client-2.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-2.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-3.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-3.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/client-3.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-3.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-4.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-4.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/client-4.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-4.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-5.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\client-5.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/client-5.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-5.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\home-blog-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\home-blog-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/home-blog-1.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\home-blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\home-blog-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\home-blog-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/home-blog-2.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\home-blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\home-side-promo.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\others\\home-side-promo.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/others/home-side-promo.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\home-side-promo.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\cart-product-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\cart-product-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/cart-product-1.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\cart-product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-1.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-10.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-10.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-10.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-11.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-11.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-11.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-12.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-12.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-12.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-13.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-13.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-13.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-2.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-3.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-3.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-3.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-4.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-4.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-4.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-5.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-5.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-5.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-6.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-6.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-6.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-7.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-7.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-7.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-8.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-8.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-8.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-9.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-9.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-9.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-details-1.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-details-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-details-2.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-details-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-3.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-3.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-details-3.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-details-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-4.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-4.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-details-4.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-details-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-5.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\image\\products\\product-details-5.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/image/products/product-details-5.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\product-details-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\js\\ajax-mail.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\js\\ajax-mail.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/js/ajax-mail.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\ajax-mail.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\js\\plugins.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\assets\\js\\plugins.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "assets/js/plugins.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\css\\maps\\style.css.map",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/css/maps/style.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\css\\style.css",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\css\\style.css",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/css/style.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\.DS_Store",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/.DS_Store",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\.DS_Store",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/.DS_Store",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Black.eot",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Black.ttf",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Black.woff",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Black.woff2",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Bold.eot",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Bold.ttf",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Bold.woff",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Bold.woff2",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Light.eot",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Light.ttf",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Light.woff",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Light.woff2",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Medium.eot",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Medium.ttf",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Medium.woff",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Medium.woff2",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Regular.eot",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Regular.ttf",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Regular.woff",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/fonts/Roboto/Roboto-Regular.woff2",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\.DS_Store",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/.DS_Store",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\auth\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\auth\\.DS_Store",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/auth/.DS_Store",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\auth\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/auth/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\auth\\login-bg.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\auth\\login-bg.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/auth/login-bg.jpg",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\auth\\login-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\auth\\register-bg.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\auth\\register-bg.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/auth/register-bg.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\auth\\register-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\.DS_Store",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/.DS_Store",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face1.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face10.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face11.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face12.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face13.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face14.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face15.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face16.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face17.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face18.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face19.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face2.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face20.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face21.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face22.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face23.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face24.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face25.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face26.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face27.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face3.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face4.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face5.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face6.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face7.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face8.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\faces\\face9.jpg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\favicon.png",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\favicon.png",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/favicon.png",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\logo.svg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\logo.svg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/logo.svg",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\images\\logo-mini.svg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/images/logo-mini.svg",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\.DS_Store",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/.DS_Store",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\chart.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\chart.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/chart.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\Chart.min.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/Chart.min.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\dashboard.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\dashboard.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/dashboard.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\data-table.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\data-table.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/data-table.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\data-table.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\dataTables.bootstrap4.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\documentation.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\documentation.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/documentation.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\documentation.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\file-upload.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\file-upload.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/file-upload.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\hoverable-collapse.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\jquery.dataTables.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\off-canvas.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/off-canvas.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\tabs.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\tabs.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/tabs.js",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\template.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\js\\template.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/js/template.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\js\\template.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\.DS_Store",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/.DS_Store",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/base/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/base/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/datatables.net/jquery.dataTables.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/mdi/fonts/materialdesignicons-webfont.svg",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "PustokAB202",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\Azer\\PraktikaPustok\\PustokAB202\\PustokAB202\\wwwroot\\",
       "BasePath": "_content/PustokAB202",
       "RelativePath": "manage/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",

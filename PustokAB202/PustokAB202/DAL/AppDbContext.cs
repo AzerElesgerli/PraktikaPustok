@@ -17,6 +17,8 @@ namespace PustokAB202.DAL
        
         public DbSet<Genre> Genres { get; set; } 
         public DbSet<Slider> Sliders { get; set; }
+
+        public DbSet<Setting> Settings { get; set; }
        
         
 
